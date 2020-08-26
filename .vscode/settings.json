@@ -3,6 +3,10 @@
     "*.py": "python",
     "iosfwd": "cpp",
     "iomanip": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "iostream": "cpp",
+    "utility": "cpp",
+    "map": "cpp",
+    "stack": "cpp"
   }
 }
