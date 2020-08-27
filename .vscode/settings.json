@@ -7,6 +7,8 @@
     "iostream": "cpp",
     "utility": "cpp",
     "map": "cpp",
-    "stack": "cpp"
+    "stack": "cpp",
+    "functional": "cpp",
+    "memory": "cpp"
   }
 }
