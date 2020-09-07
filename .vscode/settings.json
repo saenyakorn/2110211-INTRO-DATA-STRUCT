@@ -1,6 +1,7 @@
 {
   "files.associations": {
     "*.py": "python",
+    "*.cpp": "cpp",
     "iosfwd": "cpp",
     "iomanip": "cpp",
     "vector": "cpp",
@@ -9,6 +10,7 @@
     "map": "cpp",
     "stack": "cpp",
     "functional": "cpp",
-    "memory": "cpp"
+    "memory": "cpp",
+    "queue": "cpp"
   }
 }
