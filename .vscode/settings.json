@@ -11,6 +11,8 @@
     "stack": "cpp",
     "functional": "cpp",
     "memory": "cpp",
-    "queue": "cpp"
+    "queue": "cpp",
+    "algorithm": "cpp",
+    "ios": "cpp"
   }
 }
